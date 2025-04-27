@@ -11,40 +11,7 @@
 My interests include ...
 
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="48%" valign="top">
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sai%20Aditya%27s%20GitHub%20Stats" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikoduri7&theme=tokyonight" />
-
-</div>
-
-</td>
-
-<td width="50%" valign="top" style="height:100%;">
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikoduri7&layout=compact&theme=tokyonight" />
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-</div>
-
 
