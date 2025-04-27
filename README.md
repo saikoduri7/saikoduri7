@@ -1,6 +1,6 @@
 # Hi, I'm Sai Aditya Koduri -- Welcome to my GitHub!
 
-<p style="font-size:18px;">
+<p style="font-size:40px;">
 Statistics and Data Science student at UT Austin
 </p>
 
