@@ -1,6 +1,8 @@
 # Hi, I'm Sai Aditya Koduri -- Welcome to my GitHub!
 
-## Statistics and Data Science student at UT Austin*
+<p style="font-size:18px;">
+Statistics and Data Science student at UT Austin
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiadityakoduri/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiaditya.koduri@utexas.edu)
