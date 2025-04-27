@@ -11,9 +11,6 @@ My interests include ...
 
 ---
 
-[![Sai's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=saikoduri7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 
 <table>
 <tr>
