@@ -41,8 +41,5 @@ My interests include ...
 
 </div>
 
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikoduri7&layout=compact&theme=tokyonight&hide_title=true" />
-
 </div>
 
