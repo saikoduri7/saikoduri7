@@ -30,7 +30,7 @@ My interests include ...
 
 </td>
 
-<td width="48%" valign="top">
+<td width="100%" valign="middle">
 
 <div align="center">
 
