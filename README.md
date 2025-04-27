@@ -14,3 +14,44 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saikoduri7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+## Hi, I'm Sai Aditya Koduri -- Welcome to my GitHub!
+
+**Statistics and Data Science student at UT Austin**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+My interests include ...
+
+---
+
+<table>
+<tr>
+<td>
+
+### jasmine's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jasminex21&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_title=true&custom_title=jasmine's GitHub Stats" />
+
+</td>
+<td>
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminex21&layout=compact&theme=tokyonight&hide_title=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jasminex21&theme=tokyonight" />
+
+</div>
+
