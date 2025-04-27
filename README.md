@@ -16,7 +16,7 @@ My interests include ...
 <td>
 
 ### jasmine's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_title=true&custom_title=Sai's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_title=true&custom_title=Sai%27s GitHub Stats" />
 
 </td>
 <td>
