@@ -13,5 +13,5 @@ My interests include ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sai%20Aditya%27s%20GitHub%20Stats&hide_rank=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikoduri7&theme=tokyonight" />
-<img src="https://raw.githubusercontent.com/saikoduri7/saikoduri7/main/github-metrics.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=saikoduri7&theme=tokyonight&margin-w=15&margin-h=15" />
 
