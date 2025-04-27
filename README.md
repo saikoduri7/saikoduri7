@@ -23,7 +23,7 @@ My interests include ...
 <td align="center" width="50%">
 
 ### Sai's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api username=saikoduri7&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sai%20Aditya's%20GitHub%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sai%20Aditya%27s%20GitHub%20Stats" />
 
 
 <br/><br/>
