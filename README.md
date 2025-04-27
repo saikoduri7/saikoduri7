@@ -11,26 +11,6 @@ My interests include ...
 
 ---
 
-
-<table>
-<tr>
-<td>
-
-### Sai's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=saikoduri7&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&hide_title=true&custom_title=Sais GitHub Stats" />
-
-</td>
-<td>
-
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikoduri7&layout=compact&theme=tokyonight&hide_title=true" />
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 
